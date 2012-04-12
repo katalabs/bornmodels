@@ -1,0 +1,10 @@
+newmtl material_0
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd \SaH_OurBricks_Bornholm_Snowman_20K_color.png
+map_bump \SaH_OurBricks_Bornholm_Snowman_20K_normal.png
